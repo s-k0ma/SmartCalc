@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>styles.css</file>
+        <file>zoomin.png</file>
+        <file>zoomout.png</file>
+        <file>add.png</file>
+        <file>delete.png</file>
+    </qresource>
+</RCC>

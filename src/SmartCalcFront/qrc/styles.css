@@ -1,0 +1,104 @@
+/* Style for the input line */
+QLineEdit#inputLine {
+    background-color: transparent;
+    border: 1px solid #808080;
+    font-size: 20px;
+    height: 50px;
+}
+QLineEdit#inputLine:focus {
+    border: 2px solid gray;
+}
+/* Style for the X input line */
+QLineEdit#additionalInput{
+    background-color: transparent;
+    border: 1px solid #808080;
+    font-size: 20px;
+    height: 25px;
+}
+
+QLineEdit#additionalInput:focus{
+    border: 2px solid gray;
+}
+
+/* Style for the calculator buttons */
+QPushButton#calculatorButton {
+    background-color: transparent;
+    color: #948e8e;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+QPushButton#calculatorButton:hover {
+    background-color: #669;
+}
+
+QPushButton#calculatorButton:pressed {
+    background-color: #679;
+}
+
+/* Style for the calculator buttons */
+QPushButton#graphButton {
+    background-color: transparent;
+    color: #948e8e;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    width: 40px;
+    height: 40px;
+}
+
+QPushButton#graphButton:hover {
+    background-color: #669;
+}
+
+QPushButton#graphButton:pressed {
+    background-color: #679;
+}
+
+QPushButton#zoomButton{
+    background-color: transparent;
+    border: none;
+    width: 40px;
+    height: 40px;
+}
+
+QPushButton#zoomButton:hover {
+    background-color: #669;
+}
+
+QPushButton#zoomButton:pressed {
+    background-color: #679;
+}
+
+QLineEdit#creditInput{
+    background-color: transparent;
+    border: 1px solid #808080;
+    font-size: 20px;
+    height: 50px;
+}
+
+QLineEdit#creditInput:empty{
+    background-color: transparent;
+    border: 1px solid #fc2b2b;
+    font-size: 20px;
+    height: 50px;
+    width: 500px;
+}
+
+QLabel#creditLabel{
+    background-color: transparent;
+    border: 1px solid #808080;
+    font-size: 20px;
+    height: 50px;
+}
+
+QPushButton#creditbutton{
+    background-color: transparent;
+    color: #948e8e;
+    border: none;
+    font-size: 10px;
+    font-weight: bold;
+    width: 40px;
+    height: 40px;
+}
