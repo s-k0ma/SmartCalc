@@ -1,5 +1,5 @@
 # SmartCalc
-Вesktop learning project, calculator
+Desktop learning project, calculator
 
 ## Instruction for Makefile:
 ### Все make цели выполняются из директории src!
